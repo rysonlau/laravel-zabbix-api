@@ -1,5 +1,5 @@
 {
-    "name": "rysonlau/laravel-zabbix-api",
+    "name": "rysonliu/laravel-zabbix-api",
     "description": "This package provides a Zabbix API library for Laravel Framework",
     "keywords": [
        "zabbix",
