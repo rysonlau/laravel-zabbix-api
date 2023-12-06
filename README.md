@@ -11,7 +11,7 @@ This package provides a Zabbix API library for Laravel Framework. It uses the Ph
 To get started, you should add the `becker/laravel-zabbix-api` Composer dependency to your project:
 
 ```php
-composer require rysonlau/laravel-zabbix-api
+composer require rysonliu/laravel-zabbix-api
 ```
 
 #### Register the Service Provider
